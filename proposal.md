@@ -7,7 +7,7 @@ July 21st, 2019
 ### Domain Background
 Millions of people suffer from [diabetic retinopathy](https://nei.nih.gov/health/diabetic/retinopathy), the leading cause of blindness among working aged adults. Generally, this condition is treatable, but it has to be caught early enough. In developing countries like India, the ophthalmologist-patient ratio is at a dismal [1:10,000](https://www.sankaranethralaya.org/a-step-towards-combating-blindness-in-rural-areas.html). Therefore, the ability to automatize the screening process for this and other eye conditions is fundamental for an effective prevention, especially in populations living in rural areas.
 
-<img src='http://cceyemd.com/wp-content/uploads/2017/08/5_stages.png'>
+<img src='http://cceyemd.com/wp-content/uploads/2017/08/5_stages.png' width='600'>
 
 ### Problem Statement
 This is a multi-class clasification problem. The goal is to create an algorithm that is able to specify the severity of the disease given retina images taken using [fundus photography](https://en.wikipedia.org/wiki/Fundus_photography) as input and producing as output 1 of 5 possible categories of severity going from 0 to 4 (0 means not having the condition).
