@@ -33,7 +33,7 @@ Images may contain artifacts, be out of focus, underexposed, or overexposed. The
 
 ### Solution Statement
 
-Given the characteristics of the problem applying a convolutional neural network as image recognition technique seems to be most likely approach to find a satisfactory solution. Two of the most successful architectures in recent years have been Microsoft's [ResNet](https://arxiv.org/abs/1512.03385) and Google's [Inception](https://arxiv.org/abs/1409.4842) both of which seem to be reasonable options to implement. Furthermore, to take advantage of pretrained models I'll use transfer learning and then fine tune all the weights.
+Given the characteristics of the problem applying a convolutional neural network as image recognition technique seems to be the most likely approach to find a satisfactory solution. Two of the most successful architectures in recent years have been Microsoft's [ResNet](https://arxiv.org/abs/1512.03385) and Google's [Inception](https://arxiv.org/abs/1409.4842) both of which seem to be reasonable options to implement. Furthermore, to take advantage of pretrained models I'll use transfer learning and then fine tune all the weights.
 
 ### Benchmark Model
 
