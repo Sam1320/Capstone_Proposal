@@ -1,5 +1,5 @@
 # Udacity Machine Learning Engineer Capstone Project
-This directory contains all of the code, text and other sources used to complete the final project of the Nanodegree.
+This directory contains all of the code, text and other resources used to complete Udacity's Machine Learning Engineer Nanodegree final project.
 
 # Project Proposal and Final Report
 - [Project Proposal](https://github.com/Sam1320/Udacity_MLND_Capstone/blob/master/proposal.pdf)
